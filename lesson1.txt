@@ -238,8 +238,10 @@ db.getCollection('teacher').remove({model:"Yamaha Fazer"});
 ///////////////////////////////////////////////// IMPORT JSON TO MONGO /////////////////////////////////////////////////
 
 
-mongoimport --db DZ --collection rest --file restaurants.json бунта або мак, віндовс через mongoCompass відео 1.25 - 1.30
+mongoimport --db DZ --collection rest --file restaurants.json це для убунта або мак
 );
+
+                                           WINDOWS  через mongoCompass відео aprill-2021  (1.25хв - 1.30хв)
 ------------------------------------------------------------------------------------------------------------------------
 
                                                     AGGREGATE
