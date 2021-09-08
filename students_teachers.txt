@@ -149,6 +149,7 @@ db.students.insertMany(
 );
 
 
+
 db.teacher.insertMany(
     [
         {"name": "Mariya Ivanivna", "class_curator": 7, "lesson": "english", "payment": 2000},
